@@ -1,9 +1,9 @@
 Gem::Specification.new do |s|
   s.name        = 'smidp'
-  s.version     = '1.0.0'
+  s.version     = '0.6.5'
   s.date        = '2018-02-07'
-  s.summary     = "The ShellManager IdP interface for PHP"
-  s.description = "The ShellManager IdP interface for PHP"
+  s.summary     = "The ShellManager IdP interface for Rails"
+  s.description = "The ShellManager IdP interface for Rails"
   s.authors     = ["Theo Morra"]
   s.email       = 'td512@td512.io'
   s.files       = ["lib/smidp.rb"]
